@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:14.04
 MAINTAINER RedJack, LLC
 
 ENV DEBIAN_FRONTEND noninteractive
